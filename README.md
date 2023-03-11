@@ -1,10 +1,11 @@
 # Elearning-CRUD-operation
 
 
-In acest proiect am implementat operatiile CRUD necesare pentru Elearning
--Relatiile intre bazele de date:
+- In acest proiect am implementat operatiile CRUD necesare pentru Elearning.
 
--@OneToOne.
--@ManyToMany.
--@ManyToOne.
--@OneToMany.
+- Relatiile intre bazele de date:
+
+- @OneToOne.
+- @ManyToMany.
+- @ManyToOne.
+- @OneToMany.
